@@ -32,5 +32,9 @@
     "build:docs": "tachyons src/tachyons-z-index.css --generate-docs --package=../../package.json > readme.md",
     "build": "npm run build:css && npm run build:minify && npm run build:docs",
     "build:watch": "watch 'npm run build' ./src"
+  },
+  "tachyonsModule": {
+    "category": "Layout",
+    "isCore": true
   }
 }
