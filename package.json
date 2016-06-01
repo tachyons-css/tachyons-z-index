@@ -34,7 +34,7 @@
     "build:watch": "watch 'npm run build' ./src"
   },
   "tachyonsModule": {
-    "category": "Layout",
+    "category": "layout",
     "isCore": true
   }
 }
