@@ -20,7 +20,7 @@
     "z-index"
   ],
   "repository": "tachyons-css/tachyons-z-index",
-  "license": "MIT",
+  "license": "ISC",
   "devDependencies": {
     "tachyons-cli": "^0.6.1",
     "watch": "^0.19.1"
