@@ -1,7 +1,7 @@
 {
   "name": "tachyons-z-index",
   "description": "Tachyons css module for setting z-index on elements",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "author": {
     "name": "mrmrs",
     "email": "hi@mrmrs.cc",
@@ -23,8 +23,8 @@
   "repository": "tachyons-css/tachyons-z-index",
   "license": "ISC",
   "devDependencies": {
-    "tachyons-cli": "^1.3.2",
-    "watch": "^1.0.2"
+    "tachyons-cli": "^0.1.1",
+    "watch": "^0.13.0"
   },
   "scripts": {
     "start": "npm run build:watch",
